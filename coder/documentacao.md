@@ -1,11 +1,10 @@
 # Documentação
 
-## Uso:
-Este script implementa funcionalidades para facilitar a interação com a API REST Countries.
+## Funções Disponíveis
 
-### Funções disponíveis:
+---
 
-#### `obter_dados_da_api(url)`
+### `obter_dados_da_api(url)`
 Faz uma requisição GET para a URL especificada e retorna os dados JSON.
 
 **Parâmetros**:
@@ -48,6 +47,7 @@ Campos incluídos no DataFrame:
     Longitude
 
     Capital
+
 
 criar_dataframe_populacao(data)
 
@@ -107,6 +107,6 @@ Observações:
 
     As funções criar_dataframe, criar_dataframe_populacao e criar_dataframe_membro_da_onu permitem criar DataFrames com diferentes conjuntos de informações.
 
-    Os nomes das colunas do DataFrame são adaptados para maior compatibilidade, substituindo '.' por '_'.
+    Os nomes das colunas do DataFrame foram adaptados para maior compatibilidade, substituindo '.' por '_'.
 
     Este é um exemplo básico e pode ser expandido para incluir mais funcionalidades e tratamento de erros.
