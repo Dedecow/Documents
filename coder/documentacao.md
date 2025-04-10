@@ -19,7 +19,7 @@ Faz uma requisição GET para a URL especificada e retorna os dados JSON.
 **Exemplo de uso**:
 ```python
 url = "https://restfulcountries.com/api/v1/countries"
-token = "SEU_TOKEN"
+token = "Tokem gerado ao colocar apenas o email no endereço: https://restfulcountries.com/request-access-token"
 dados = obter_dados_da_api(url, token)
 ```
 
@@ -95,6 +95,4 @@ dataframe_membro_onu = criar_dataframe_membro_da_onu(dados)
 3. Salvamento dos DataFrames em arquivos CSV.
 4. Leitura e manipulação dos arquivos CSV para análise.
 
-## Observações
-- Substitua o token de autenticação pelo valor correto antes de executar o código.
-- Certifique-se de que os arquivos CSV gerados estão no diretório correto para leitura posterior.
+
