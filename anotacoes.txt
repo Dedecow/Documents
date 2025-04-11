@@ -1,7 +1,9 @@
+FACIL:
 Acrescentar o README
-Problema: trazer da mesma URL, seria perfeitamente correta quando traz três URL diferentes
-Sugestão: Trazer um Join ao invez de tratar com um for
+O banco precisa ser feito
 Não salvar com timestamp, bastava a referencia relativa
 Contar os membros da ONU
+DIFICil:
 O sistema de alerta não está correto
-O banco precisa ser feito
+Problema: trazer da mesma URL, seria perfeitamente correta quando traz três URL diferentes
+Sugestão: Trazer um Join ao invez de tratar com um for
