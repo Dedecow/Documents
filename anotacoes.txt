@@ -1,9 +1,9 @@
 FACIL:
 Acrescentar o README  OK
-O banco precisa ser feito
-Não salvar com timestamp, bastava a referencia relativa
-Contar os membros da ONU
+O banco precisa ser feito OK
+Não salvar com timestamp, bastava a referencia relativa OK
+Contar os membros da ONU FALTA
 DIFICil:
+Sugestão: Trazer um Join ao invez de tratar com um for
 O sistema de alerta não está correto
 Problema: trazer da mesma URL, seria perfeitamente correta quando traz três URL diferentes
-Sugestão: Trazer um Join ao invez de tratar com um for
