@@ -1,5 +1,5 @@
 FACIL:
-Acrescentar o README
+Acrescentar o README  OK
 O banco precisa ser feito
 Não salvar com timestamp, bastava a referencia relativa
 Contar os membros da ONU
