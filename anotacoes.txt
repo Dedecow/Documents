@@ -4,8 +4,9 @@ O banco precisa ser feito OK
 adaptar codigo ao banco OK
 Não salvar com timestamp, bastava a referencia relativa OK
 Contar os membros da ONU OK
+
 DIFICil:
-Sugestão: Trazer um Join ao invez de tratar com um for
 O sistema de alerta não está correto
+Sugestão: Trazer um Join ao invez de tratar com um for
 Problema: trazer da mesma URL, seria perfeitamente correta quando traz três URL diferentes
 A API principal traz dados incorretos sobre o número de paises do mundo, na verdade são 193
