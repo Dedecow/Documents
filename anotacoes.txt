@@ -1,6 +1,7 @@
 FACIL:
 Acrescentar o README  OK
 O banco precisa ser feito OK
+adaptar codigo ao banco FALTA
 Não salvar com timestamp, bastava a referencia relativa OK
 Contar os membros da ONU FALTA
 DIFICil:
