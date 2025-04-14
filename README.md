@@ -18,10 +18,14 @@ url = "https://restfulcountries.com/api/v1/countries"
 
 ## Instalação
 
+Acesse o site oficial do Python: https://www.python.org/downloads/windows/
+Procure pela versão específica "Python 3.11.9". 
+Baixe o arquivo executável (.exe).
+
 Para configurar o ambiente e instalar as dependências necessárias, execute:
 
 ```bash
-pip install pandas numpy requests
+pip install pandas numpy requests datetime
 ```
 
 Após a instalação, configure o token da API no código-fonte do projeto.
