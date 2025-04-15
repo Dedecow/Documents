@@ -7,7 +7,7 @@ OK Contar os membros da ONU OK
 
 
 DIFICil:
-OK Sugestão: Trazer um Join ao invez de tratar com um for OK - A sugestão foi rejeitada pois manipular os dados em um alterando um df na própria memória Phyton usando o pandas é mais eficiente que criar uma tabela no BD para essa coluna e posteriormente fazer um join, caso a tabela fosse extremamente grande o JOIN se faria necessário.
-O sistema de alerta não está correto
+OK  Sugestão: Trazer um Join ao invez de tratar com um for OK - A sugestão foi rejeitada pois manipular os dados em um alterando um df na própria memória Phyton usando o pandas é mais eficiente que criar uma tabela no BD para essa coluna e posteriormente fazer um join, caso a tabela fosse extremamente grande o JOIN se faria necessário.
+OK  O sistema de alerta não está correto
 Problema: trazer da mesma URL, seria perfeitamente correta quando traz três URL diferentes
 A API principal traz dados incorretos sobre o número de paises do mundo, na verdade são 193
