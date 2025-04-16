@@ -3,7 +3,8 @@ OK Acrescentar o README
 OK O banco precisa ser feito 
 OK adaptar codigo ao banco 
 OK Não salvar com timestamp, bastava a referencia relativa 
-OK Contar os membros da ONU 
+OK Não fixar o caminho, usar um caminho relativo
+OK Contar os membros da ONU / quantos deu membro, quantos não deu, se restou algum ainda nulo
 
 
 DIFICil:
