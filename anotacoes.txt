@@ -12,5 +12,6 @@ DIFICil:
 OK  O sistema de alerta não está correto
 
 Sugestão: Trazer um Join ao invez de tratar com um for 
-Problema: trazer da mesma URL, seria perfeitamente correta quando traz três URL diferentes - a ideia estaria correta se cada uma dessas funcoes viesse de uma URL diferente. 
+Problema: trazer da mesma URL, seria perfeitamente correta quando traz três URL diferentes
+ - a ideia estaria correta se cada uma dessas funcoes viesse de uma URL diferente. 
 A API principal traz dados incorretos sobre o número de paises do mundo, na verdade são 193
