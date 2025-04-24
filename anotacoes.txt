@@ -1,17 +1,9 @@
-FACIL:
-OK Acrescentar o README  
-OK O banco precisa ser feito 
-OK adaptar codigo ao banco 
-OK Não salvar com timestamp, bastava a referencia relativa 
-OK Não fixar o caminho, usar um caminho relativo
-OK Contar os membros da ONU / quantos deu membro, quantos não deu, se restou algum ainda nulo
-
-
-DIFICil:
-
-OK  O sistema de alerta não está correto
-
 Sugestão: Trazer um Join ao invez de tratar com um for 
 Problema: trazer da mesma URL, seria perfeitamente correta quando traz três URL diferentes
  - a ideia estaria correta se cada uma dessas funcoes viesse de uma URL diferente. 
 A API principal traz dados incorretos sobre o número de paises do mundo, na verdade são 193
+- Integrar com um postgree
+- Usar NODE para fazer a integração com o postgree
+
+
+- criar um script para rodar em um servidor meu e consumir esses dados (simula vários dados entrando ao mesmo tempo)
